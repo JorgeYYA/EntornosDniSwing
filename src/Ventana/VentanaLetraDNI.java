@@ -57,7 +57,7 @@ public class VentanaLetraDNI extends JFrame {
 		contentPane.add(textField_1);
 		textField_1.setColumns(10);
 		
-		btnNewButton = new JButton("New button");
+		btnNewButton = new JButton("Calcular");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 			}
